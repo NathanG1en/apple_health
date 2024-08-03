@@ -37,15 +37,15 @@ To view the scatterplots/linear regression model(s) we used to predict heartrate
 
 ## What each Program Does
 
-###MatchFootsteps
+### MatchFootsteps
 User inputs a song that they like, the program spits out the album cover art, a song preview(if available), the bpm of the song - and what pace the user should be moving at (Speed Walk, Jog, or Run). 
 
-###Running
+### Running
 Using what's known as an st.form - this application takes user data and puts it into a dataframe. The data it takes includes how many miles the user is going to run and the time predicted to run in hours, minutes, and seconds. The program calculates the users average pace and then factors in both the gender and the user's preferred genre of music and gives the user a song that best matches their heartbeat. 
 _*sometimes using the keyboard to input numbers is finicky, so for the best results, use the + and - buttons._
 
-###Weightlifting
+### Weightlifting
 This is a simple application that just takes a dataframe and turns it into a basic reccomendation system. The user selects the body part they want to work and the level of difficulty they want their exercise to be (Beginner, or Intermediate) - and then the program spits out 1 out of N reccomendations, which the user can iterate through. 
 
-###Yoga
+### Yoga
 This app has 5 songs in its rotation, and when the meditation button is clicked, it just plays them, from slowest to fastest - then it goes down, from fastest to slowest. The user can choose the intervals at which the song changes/ how long the meditation session lasts. 
