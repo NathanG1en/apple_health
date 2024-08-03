@@ -1,8 +1,8 @@
 # APPLEHEALTH App Instructions 
 
-##File Structure/Things to Know
+## File Structure/Things to Know
 
-######* .py hyperlinks lead nowhere!
+###### * .py hyperlinks lead nowhere!
 APPLEHEALTH.py is the landing page, where you can access all of the features of the webapp. If you want to be able to use all of the programs featured in the app, **you have to run APPLEHEALTH.py**. 
 
  In a folder, titled **pages**,  in the same directory as APPLEHEALTH is where any auxillary .py flies can be found. In this app those py files include MatchFootsteps.py, Running.py, Weightlifting.py, and Yoga.py. You **can** run these individually, but you will **not** be able to access the others. 
