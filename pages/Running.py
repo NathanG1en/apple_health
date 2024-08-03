@@ -10,8 +10,8 @@ import webbrowser
 # https://www.youtube.com/watch?v=WAmEZBEeNmg
 # video by Tim from @TechWithTim that We used to understand API calls and how to 
 
-client_id = '4905bbd8cf0f47f6bbc36b2f5fec965a'
-client_secret = '5f6ed5391e6144b9a733d0f384332384'
+client_id = f'{CLIENT_ID}'
+client_secret = f'{CLIENT_SECRET}'
 
 
 
